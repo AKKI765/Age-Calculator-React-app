@@ -39,12 +39,12 @@ button{
 button:hover{
     
     cursor: pointer;
-    background-color: transparent;
+    background-color: green ;
     border: 3px solid #008;
     border-radius: 50px;
     -webkit-transition: all .15s ease-in-out;
     transition: all .15s ease-in-out;
-    color: #00d7c3;
+    color: black;
 }
 
 p{
