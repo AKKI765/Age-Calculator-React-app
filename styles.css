@@ -1,12 +1,8 @@
-body {
-
-    background-image: url("https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif");
-    
-}
 
 
 .AgeCal{
-    color: aliceblue;
+    background-color: #00d7c3;
+    color: black;
     font-family: 'Merriweather', serif;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Sacramento', cursive;

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/https//AKKI765.github.io/Age-Calculator-React-app/static/js/main.4af2acc2.js",
-    "static/media/man.jpg": "/https//AKKI765.github.io/Age-Calculator-React-app/static/media/man.d64dd36bc5dd0315c24e.jpg",
-    "static/media/baby.jpg": "/https//AKKI765.github.io/Age-Calculator-React-app/static/media/baby.bff5715bbf4d4441d8e5.jpg",
-    "static/media/Teen.jpg": "/https//AKKI765.github.io/Age-Calculator-React-app/static/media/Teen.700bbf08cbc6064e0827.jpg",
-    "static/media/Old Man.jpg": "/https//AKKI765.github.io/Age-Calculator-React-app/static/media/Old Man.0b5001eaa7decff4eba7.jpg",
-    "static/media/adultav.jpg": "/https//AKKI765.github.io/Age-Calculator-React-app/static/media/adultav.cb86df0ce8a4a27aaa43.jpg",
-    "index.html": "/https//AKKI765.github.io/Age-Calculator-React-app/index.html",
-    "main.4af2acc2.js.map": "/https//AKKI765.github.io/Age-Calculator-React-app/static/js/main.4af2acc2.js.map"
+    "main.js": "/Age-Calculator-React-app/static/js/main.77efc6f3.js",
+    "static/media/man.jpg": "/Age-Calculator-React-app/static/media/man.d64dd36bc5dd0315c24e.jpg",
+    "static/media/baby.jpg": "/Age-Calculator-React-app/static/media/baby.bff5715bbf4d4441d8e5.jpg",
+    "static/media/Teen.jpg": "/Age-Calculator-React-app/static/media/Teen.700bbf08cbc6064e0827.jpg",
+    "static/media/Old Man.jpg": "/Age-Calculator-React-app/static/media/Old Man.0b5001eaa7decff4eba7.jpg",
+    "static/media/adultav.jpg": "/Age-Calculator-React-app/static/media/adultav.cb86df0ce8a4a27aaa43.jpg",
+    "index.html": "/Age-Calculator-React-app/index.html",
+    "main.77efc6f3.js.map": "/Age-Calculator-React-app/static/js/main.77efc6f3.js.map"
   },
   "entrypoints": [
-    "static/js/main.4af2acc2.js"
+    "static/js/main.77efc6f3.js"
   ]
 }
